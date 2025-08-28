@@ -7,7 +7,7 @@ pkg install git
 
 pkg install python3
 
-git clone https://github.com/101Ruan/TReScan
+git clone https://github.com/DarkZer010/TReScan
 
 cd TReScan
 
