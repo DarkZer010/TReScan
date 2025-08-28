@@ -5,20 +5,12 @@ Ferramenta de scaneamento de portas abertas em um site ou roteador.
 
 pkg install git
 
+pkg install python3
+
 git clone https://github.com/101Ruan/TReScan
 
 cd TReScan
 
-pkg install python3
-
-pip install sockets
-
-pip install datetime
-
-pip install time
-
-pip install colorama
-
-pip install pyfiglet
+pip install -r requirements.txt
 
 python3 TReScan.py
