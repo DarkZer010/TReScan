@@ -1,5 +1,5 @@
-pip install sockets
-pip install datetime
-pip install time
-pip install colorama
-pip install pyfiglet
+sockets
+datetime
+time
+colorama
+pyfiglet
